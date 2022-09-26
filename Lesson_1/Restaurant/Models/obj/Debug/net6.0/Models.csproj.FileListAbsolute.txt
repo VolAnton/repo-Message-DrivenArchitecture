@@ -1,0 +1,12 @@
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\bin\Debug\net6.0\Models.deps.json
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\bin\Debug\net6.0\Models.dll
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\bin\Debug\net6.0\Models.pdb
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.dll
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\refint\Models.dll
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\Models.pdb
+D:\Учеба\GB_Message-DrivenArchitecture\Lesson_1\Restaurant\Models\obj\Debug\net6.0\ref\Models.dll
